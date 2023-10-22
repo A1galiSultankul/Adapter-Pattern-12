@@ -1,0 +1,1 @@
+# Adapter-Pattern-12
